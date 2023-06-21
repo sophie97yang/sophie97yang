@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Soph 🪩💖
 
-Former math teacher | Software Engineer | Problem-Solving Enthusiast
+Former Math Teacher | Software Engineer | Problem-Solving Enthusiast
 <br>
 😄 Pronouns: she/her
  <br>
