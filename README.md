@@ -9,7 +9,7 @@ Former Math Teacher | Software Engineer | Problem-Solving Enthusiast
 <br>
 **What drives me?**
 <br>
-🌟 _Lifelong Learning:_ I believe that the pursuit of knowledge should never cease. I am committed to continuous growth, eagerly embracing new technologies, frameworks, and best practices.
+🌟 _Lifelong Learning:_  I am committed to continuous growth, eagerly embracing new technologies, frameworks, and best practices.
 <br>
 🚀 _Making an Impact:_ My goal is to leverage my problem-solving skills and engineering expertise to make a positive and meaningful impact in the world. I am enthusiastic about creating innovative solutions that address real-world challenges.
 
