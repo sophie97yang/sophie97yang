@@ -22,10 +22,10 @@
 🌟 Lifelong Learning:  I am committed to continuous growth, eagerly embracing new technologies, frameworks, and best practices.
 <br>
  <br>
-🚀 Making an Impact: My goal is to leverage my problem-solving skills and engineering expertise to make a positive and meaningful impact in the world. I am enthusiastic about creating innovative solutions that address real-world challenges.
+🚀 Making an Impact: My goal is to leverage my problem-solving skills and technical expertise to make a positive and meaningful impact in the world. I am enthusiastic about creating innovative solutions that address real-world challenges.
 </ul>
 
-<h2>Passions</h2>
+<h2>Passions (outside of coding, of course!)</h2>
 <ul>
  🏄🏽 Surfing
  🏂🏽 Snowboarding
