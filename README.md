@@ -25,11 +25,23 @@
 🚀 Making an Impact: My goal is to leverage my problem-solving skills and technical expertise to make a positive and meaningful impact in the world. I am enthusiastic about creating innovative solutions that address real-world challenges.
 </ul>
 
-<h2>Passions</h2>
+<h2>How I'm Growing</h2>
+  <ul>
+    📚 I'm currently expanding my skills by delving into TypeScript and Angular, and I'm excited to showcase this journey through the rework of my personal project MeetU. 
+     Originally built with React and Redux, I'm transitioning its frontend to Angular, exploring new possibilities and enhancing my expertise in web development!
+    <br>
+    <br>
+    💪🏽 I'm embarking on a new personal challenge: training for my first-ever marathon, the Rock 'n' Roll in San Diego. Through dedicated training and perseverance, I'm pushing my physical boundaries and embracing the journey towards achieving this milestone.
+  </ul>
+
+<h2>Hobbies</h2>
 <ul>
  🏄🏽 Surfing
+  <br>
  🏂🏽 Snowboarding
+  <br>
  🏃🏼‍♀️ Running
+   <br>
  🧳 Traveling
 </ul>
 
