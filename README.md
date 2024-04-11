@@ -31,7 +31,7 @@
      Originally built with React and Redux, I'm transitioning its frontend to Angular, exploring new possibilities and enhancing my expertise in web development!
     <br>
     <br>
-    💪🏽 I'm embarking on a new personal challenge: training for my first-ever marathon, the Rock 'n' Roll in San Diego. Through dedicated training and perseverance, I'm pushing my physical boundaries and embracing the journey towards achieving this milestone.
+    💪🏽 I'm beginning a new personal challenge: training for my first-ever marathon, the Rock 'n' Roll San Diego. Through dedicated training and perseverance, I'm pushing my physical boundaries and embracing the journey towards achieving this milestone.
   </ul>
 
 <h2>Hobbies</h2>
